@@ -1,4 +1,4 @@
-# Lista Linear
+# Lista Linear.
 
 Faça um fork deste repositorio e implemente a função exlcuirElemento
 
